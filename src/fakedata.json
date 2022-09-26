@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "title": "Mens Casual Premium Slim Fit T-Shirts ",
+        "price": 22.3,
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "t-shirt",
+        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        },
+        "stock": 2,
+        "size": "l",
+        "color": "gray",
+        "qty": 1
+    },
+    {
+        "id": 2,
+        "title": "Mens half Slim Fit T-Shirts ",
+        "price": 15.3,
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "t-shirt",
+        "image": "https://static.aadi.com.bd/__sized__/products/9419-173589-t-shirt-black-maxan-645953-1-thumbnail-500x500-70.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 100
+        },
+        "stock": 10,
+        "size": "xl",
+        "color": "black",
+        "qty": 1
+    },
+    {
+        "id": 3,
+        "title": "Mens Cotton Jacket",
+        "price": 55.99,
+        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "category": "Jacket",
+        "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        },
+        "stock": 5,
+        "size": "xxl",
+        "color": "brown",
+        "qty": 1
+    },
+    {
+        "id": 4,
+        "title": "Mens Casual Slim Fit",
+        "price": 15.99,
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "t-shirt",
+        "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        },
+        "stock": 22,
+        "size": "m",
+        "color": "blue",
+        "qty": 1
+    },
+    {
+        "id": 5,
+        "title": "Men's Half Sleeve T-shirt by Maxan ",
+        "price": 64,
+        "description": "Outer fabric material : 100% Cotton Round neck Pattern : Print Sleeve length : Short sleeve Grams Per Square Metre (GSM) : 170 to 207",
+        "image": "https://static.aadi.com.bd/__sized__/products/9419-173601-t-shirt-black-maxan-645965-1-thumbnail-1080x1080-70.jpg",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        },
+        "category": "t-shirt",
+        "stock": 6,
+        "size": "l",
+        "color": "black",
+        "qty": 1
+    },
+    {
+        "id": 6,
+        "title": "VER LOST FOCUS-Men's Stylish Half Sleeve T-Shirt By Be Young",
+        "price": 48,
+        "description": "Outer fabric material : 100% Cotton Round neck Pattern : Print Sleeve length : Short sleeve Grams Per Square Metre (GSM) : 170 to 207",
+        "image": "https://static.aadi.com.bd/__sized__/products/17169-150190-t-shirt-light-blue-be-young-588153-1-thumbnail-1080x1080-70.jpg",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        },
+        "category": "t-shirt",
+        "stock": 16,
+        "size": "xl",
+        "color": "light blue",
+        "qty": 1
+    },
+    {
+        "id": 7,
+        "title": "Unisex Stylish Half Sleeve T-Shirt by Albelia Apparel",
+        "price": 58,
+        "description": "Outer fabric material : 100% Cotton Round neck Pattern : Print Sleeve length : Short sleeve Grams Per Square Metre (GSM) : 170 to 207",
+        "image": "https://static.aadi.com.bd/__sized__/products/2139-28172-t-shirt-deep-orange-albelia-apparel-59029-1-thumbnail-1080x1080-70.jpg",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        },
+        "category": "t-shirt",
+        "stock": 2,
+        "size": "m",
+        "color": "deep orange",
+        "qty": 1
+    },
+    {
+        "id": 8,
+        "title": "Men's Half Sleeve T-shirt",
+        "price": 42,
+        "description": "Outer fabric material : 100% Cotton Round neck Pattern : Print Sleeve length : Short sleeve Grams Per Square Metre (GSM) : 170 to 207",
+        "image": "https://static.aadi.com.bd/__sized__/products/9419-173663-t-shirt-navy-maxan-646027-1-thumbnail-1080x1080-70.jpg",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        },
+        "category": "t-shirt",
+        "stock": 10,
+        "size": "m",
+        "color": "navy",
+        "qty": 1
+    },
+    {
+        "id": 9,
+        "title": "Oversized Cotton hoodie",
+        "price": 142,
+        "description": "Blank Staples is a timeless collection of high-quality, minimalistic streetwear. This hoodie is made from heavy, 460 gsm organic cotton sweatshirt",
+        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6c%2F15%2F6c150d060d3d1aa95459daf18fd28d23f183c429.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        },
+        "category": "hoodie",
+        "stock": 10,
+        "size": "xxl",
+        "color": "black",
+        "qty": 1
+    },
+    {
+        "id": 10,
+        "title": "Oversized Fit Cotton hoodie",
+        "price": 140,
+        "description": "Blank Staples is a timeless collection of high-quality, minimalistic streetwear. This hoodie is made from heavy, 460 gsm organic cotton sweatshirt",
+        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe6%2F2b%2Fe62be52e958c11a257a88364546a5f496547872f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        },
+        "category": "hoodie",
+        "stock": 5,
+        "size": "xl",
+        "color": "gray",
+        "qty": 1
+    },
+    {
+        "id": 11,
+        "title": "Premium Pullover Hoodies",
+        "price": 190,
+        "description": "Blank Staples is a timeless collection of high-quality, minimalistic streetwear. This hoodie is made from heavy, 460 gsm organic cotton sweatshirt",
+        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe6%2F2b%2Fe62be52e958c11a257a88364546a5f496547872f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        },
+        "category": "hoodie",
+        "stock": 25,
+        "size": "xl",
+        "color": "yellow",
+        "qty": 1
+    },
+    {
+        "id": 12,
+        "title": "Pullover Hoodies for Women",
+        "price": 170,
+        "description": "Blank Staples is a timeless collection of high-quality, minimalistic streetwear. This hoodie is made from heavy, 460 gsm organic cotton sweatshirt",
+        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe6%2F2b%2Fe62be52e958c11a257a88364546a5f496547872f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        },
+        "category": "hoodie",
+        "stock": 3,
+        "size": "l",
+        "color": "white",
+        "qty": 1
+    },
+    {
+        "id": 13,
+        "title": "Zaful Colts Hoodies for women Rose",
+        "price": 120,
+        "description": "A plush fleece hoodie with a rose print on the chest adds a relaxed, chic appearance into any outfit, which features a drawstring hood, kangaroo",
+        "image": "https://i5.walmartimages.com/asr/1cb5befd-d92a-4d77-a908-6aedaa830c49.7b1e9ed5dffc297588fe66320a023677.jpeg",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        },
+        "category": "hoodie",
+        "stock": 15,
+        "size": "m",
+        "color": "pink",
+        "qty": 1
+    },
+    {
+        "id": 14,
+        "title": "Premium Quality Short Sleeve Men Solid Polo Shirt",
+        "price": 60,
+        "description": "A plush fleece hoodie with a rose print on the chest adds a relaxed, chic appearance into any outfit, which features a drawstring hood, kangaroo",
+        "image": "https://shodagor-uploads.s3.ap-south-1.amazonaws.com/uploads/all/d3Q6F.jpg",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        },
+        "category": "polo",
+        "stock": 20,
+        "size": "m",
+        "color": "light blue",
+        "qty": 1
+    },
+    {
+        "id": 15,
+        "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+        "price": 156.99,
+        "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets",
+        "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        },
+        "category": "Jacket",
+        "stock": 18,
+        "size": "l",
+        "color": "purple",
+        "qty": 1
+    },
+    {
+        "id": 16,
+        "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+        "price": 129.95,
+        "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+        "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 340
+        },
+        "category": "Jacket",
+        "stock": 11,
+        "size": "m",
+        "color": "black",
+        "qty": 1
+    },
+    {
+        "id": 17,
+        "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+        "price": 39.99,
+        "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design.",
+        "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "rating": {
+            "rate": 3.8,
+            "count": 679
+        },
+        "category": "Jacket",
+        "stock": 2,
+        "size": "xl",
+        "color": "blue",
+        "qty": 1
+    },
+    {
+        "id": 18,
+        "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+        "price": 9.85,
+        "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+        "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 130
+        },
+        "category": "t-shirt",
+        "stock": 6,
+        "size": "m",
+        "color": "white",
+        "qty": 1
+    },
+    {
+        "id": 19,
+        "title": "Opna Women's Short Sleeve Moisture",
+        "price": 7.95,
+        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+        "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 146
+        },
+        "category": "t-shirt",
+        "stock": 4,
+        "size": "xxl",
+        "color": "red",
+        "qty": 1
+    },
+    {
+        "id": 20,
+        "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+        "price": 12.99,
+        "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+        "image": "https://cdn.fashiola.ph/L38051459/polo-ralph-lauren-short-sleeve-polo-shirt.jpg",
+        "rating": {
+            "rate": 3.6,
+            "count": 145
+        },
+        "category": "polo",
+        "stock": 3,
+        "size": "xxl",
+        "color": "pink",
+        "qty": 1
+    }
+]

@@ -3,6 +3,8 @@ import { useState } from 'react';
 const useCart = () => {
     const [selectedProduct, handleSelectedProduct] = useState([]);
     const [cart, setCart] = useState([]);
+    const [snackbar, setSnackbar] = useState(null);
+    const handleCloseSnackbar = () => setSnackbar(null);
 
     const handleAddCart = products => {
         for (const product of products) {
@@ -32,7 +34,7 @@ const useCart = () => {
                 updateProductQtyVal(oldQty, updateProducId);
             }
             else {
-                alert('not enough stock available');
+                setSnackbar({ children: 'Not enough stock available', severity: 'error' });
             }
         }
         if (minus) {
@@ -41,7 +43,7 @@ const useCart = () => {
                 updateProductQtyVal(oldQty, updateProducId);
             }
             else {
-                alert('quantity cannot be 0');
+                setSnackbar({ children: 'Quantity cannot be 0', severity: 'error' });
             }
         }
     }
@@ -71,7 +73,7 @@ const useCart = () => {
                 exist.qty = exist.stock;
                 newCart = [...rest, exist]
                 setCart(newCart);
-                alert('not enough stock available');
+                setSnackbar({ children: 'Not enough stock available', severity: 'error' });
             }
 
         }
@@ -92,7 +94,9 @@ const useCart = () => {
         handleOneChange,
         handleDelete,
         selectedProduct,
-        handleSelectedProduct
+        handleSelectedProduct,
+        snackbar, setSnackbar,
+        handleCloseSnackbar
     };
 };
 

@@ -1,11 +1,21 @@
-import { Box, Button, Container, Input, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Typography } from '@mui/material';
+import { Alert, Box, Button, Container, Input, Snackbar, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Typography } from '@mui/material';
 import React from 'react';
 import { Link } from 'react-router-dom';
 import useCartData from '../../../Hooks/useCartData';
 import Paper from '@mui/material/Paper';
 
 const CartCheckout = () => {
-    const { cart, handleOneChange, hadnleManyChange, handleDelete, handleSelectedProduct, setCart } = useCartData();
+    //get data using context
+    const { cart,
+        handleOneChange,
+        hadnleManyChange,
+        handleDelete,
+        handleSelectedProduct,
+        setCart,
+        snackbar,
+        setSnackbar,
+        handleCloseSnackbar } = useCartData();
+
 
     let total = 0;
     let price = 0;
@@ -28,6 +38,16 @@ const CartCheckout = () => {
     }
     return (
         <Container sx={{ mt: 10 }}>
+            {!!snackbar && (
+                <Snackbar
+                    open
+                    anchorOrigin={{ vertical: 'bottom', horizontal: 'center' }}
+                    onClose={handleCloseSnackbar}
+                    autoHideDuration={6000}
+                >
+                    <Alert {...snackbar} onClose={handleCloseSnackbar} />
+                </Snackbar>
+            )}
             {
 
                 cart[0]?.id ? <Box style={{ display: 'flex', margin: 'auto' }}>

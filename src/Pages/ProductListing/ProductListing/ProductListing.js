@@ -99,7 +99,7 @@ const ProductListing = () => {
 
                     <Box sx={{ ml: 1 }}>
                         <Button onClick={handleAddToCart} variant="contained" >
-                            <Link style={{ textDecoration: 'none', color: 'white' }} to='/cart'>Add To Cart</Link>
+                            <Link style={{ textDecoration: 'none', color: 'white' }} to='/cart'> Add To Cart</Link>
                         </Button>
                     </Box>
 

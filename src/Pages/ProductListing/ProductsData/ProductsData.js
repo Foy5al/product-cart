@@ -85,7 +85,7 @@ const ProductsData = ({ product, setProduct }) => {
     );
 
     const handleProcessRowUpdateError = useCallback((error) => {
-        /*  setSnackbar({ children: error.message, severity: 'error' }); */
+        setSnackbar({ children: error.message, severity: 'error' });
     }, []);
 
     const handleCloseSnackbar = () => setSnackbar(null);
@@ -109,6 +109,7 @@ const ProductsData = ({ product, setProduct }) => {
                 experimentalFeatures={{ newEditingApi: true }}
                 checkboxSelection
             />
+            {/* alert show  */}
             {!!snackbar && (
                 <Snackbar
                     open
